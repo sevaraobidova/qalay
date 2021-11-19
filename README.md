@@ -1,1 +1,2 @@
 # qalay
+yaxshimisiz yaxshi qiz
